@@ -1,0 +1,31 @@
+{
+  "name": "Food-Festival",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsjanarthani/Food-Festival-PWA.git"
+  },
+  "keywords": [],
+  "author": "Janarthani V Subramaniam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vsjanarthani/Food-Festival-PWA/issues"
+  },
+  "homepage": "https://github.com/vsjanarthani/Food-Festival-PWA#readme",
+  "devDependencies": {
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.1",
+    "jquery": "^3.6.0"
+  }
+}
